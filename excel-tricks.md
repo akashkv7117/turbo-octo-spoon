@@ -25,3 +25,19 @@ Add Diagonal Line for a Cell
 
 6. Add More Than One New Row or Column
 You may know the way to add one new row or column, but it really wastes a lot of time if you need to insert more than one of these by repeating this action X number of times. The best way is to drag and select X rows or columns (X is two or more) if you want to add X rows or columns above or left. Right click the highlighted rows or columns and choose Insert from the drop down menu. New rows will be inserted above the row or to the left of the column you first selected.
+
+
+7. Speedily Move and Copy Data in Cells
+If you want to move one column of data in a spreadsheet, the fast way is to choose it and move the pointer to the border, after it turns to a crossed arrow icon, drag to move the column freely. What if you want to copy the data? You can press the Ctrl button before you drag to move; the new column will copy all the selected data.
+
+Speedy Move and Copy Data in Cells
+8. Speedily Delete Blank Cells
+Some default data will be blank, for various reasons. If you need to delete these to maintain accuracy, especially when calculating the average value, the speedy way is to filter out all blank cells and delete them with one click. Choose the column you want to filter, go to Data->Filter, after the downward button shows, undo Select All and then pick up the last option, Blanks. All blank cells will show immediately. Go back to Home and click Delete directly, all of them will be removed.
+
+Speedy Delete Blank Cells
+9. Vague Search with Wild Card
+You may know how to activate the speedy search by using the shortcut Ctrl + F, but there are two main wild cards—Question Mark and Asterisk—used in Excel spreadsheets to activate a vague search. This is used when you are not sure about the target result. Question Mark stands for one character and Asterisk represents one or more characters. What if you need to search Question Mark and Asterisk as a target result? Don’t forget add a Wave Line in front.
+
+Vague Search with Wild-card
+10. Generate a Unique Value in a Column
+You are aware of the key function of Filter, but few people use the Advanced Filter, which will be repeatedly applied when you need to filter a unique value from data in a column. Click to choose the column and go to Data->Advanced. A pop-up window will show up. As the screenshot shows, click Copy to another location, which should be in accord with the second red rectangular area. Then specify the target location by typing the value or clicking the area-choosing button. In this example, the unique age can be generated from Column C and show in Column E. Don’t forget to choose Unique records only, then click OK. The unique value showing in column E can be the contrast of the original data in C, that’s the reason why it is recommended to copy to another location.
