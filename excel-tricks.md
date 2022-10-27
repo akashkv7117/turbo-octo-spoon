@@ -20,3 +20,8 @@ Create New Shortcut Menu
 When creating a classmate address list, for example, you may need a diagonal link in the first cell to separate different attributes of rows and columns. How to make it? Everyone knows that Home->Font-> Borders can change different borders for a cell, and even add different colors. However, if you click More Borders, you will get more surprises, like a diagonal line. Click it and save—you can now make it immediately.
 
 Add Diagonal Line for a Cell
+
+
+
+6. Add More Than One New Row or Column
+You may know the way to add one new row or column, but it really wastes a lot of time if you need to insert more than one of these by repeating this action X number of times. The best way is to drag and select X rows or columns (X is two or more) if you want to add X rows or columns above or left. Right click the highlighted rows or columns and choose Insert from the drop down menu. New rows will be inserted above the row or to the left of the column you first selected.
