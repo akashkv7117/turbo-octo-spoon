@@ -41,3 +41,11 @@ You may know how to activate the speedy search by using the shortcut Ctrl + F, b
 Vague Search with Wild-card
 10. Generate a Unique Value in a Column
 You are aware of the key function of Filter, but few people use the Advanced Filter, which will be repeatedly applied when you need to filter a unique value from data in a column. Click to choose the column and go to Data->Advanced. A pop-up window will show up. As the screenshot shows, click Copy to another location, which should be in accord with the second red rectangular area. Then specify the target location by typing the value or clicking the area-choosing button. In this example, the unique age can be generated from Column C and show in Column E. Don’t forget to choose Unique records only, then click OK. The unique value showing in column E can be the contrast of the original data in C, that’s the reason why it is recommended to copy to another location.
+
+
+11. Input Restriction with Data Validation Function
+In order to retain the validity of data, sometimes you need to restrict the input value and offer some tips for further steps. For example, age in this sheet should be whole numbers and all people participating in this survey should be between 18 and 60 years old. To ensure that data outside of this age range isn’t entered, go to Data->Data Validation->Setting, input the conditions and shift to Input Message to give prompts like, “Please input your age with whole number, which should range from 18 to 60.” Users will get this prompt when hanging the pointer in this area and get a warning message if the inputted information is unqualified.
+
+Input Restriction with Data Validation Function
+12. Fast Navigation with Ctrl + Arrow Button
+When you click Ctrl + any arrow button on the keyboard, you can jump to the edge of the sheet in different directions. If you want to jump to the bottom line of the data, just try to click Ctrl + downward button.
